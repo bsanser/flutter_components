@@ -1,19 +1,19 @@
 {
   "appName": "Components",
   "routes": [{
-      "path": "alert",
+      "route": "alert",
       "icon": "add_alert",
       "text": "Alertas"
     },
     {
-      "path": "avatar",
+      "route": "avatar",
       "icon": "accessibility",
       "text": "Avatars"
     },
     {
-      "path": "card",
+      "route": "card",
       "icon": "folder_open",
-      "text": "Cards - Tarjetas"
+      "text": "Cards"
     }
   ]
 }
